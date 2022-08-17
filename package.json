@@ -10,7 +10,7 @@
     "axe-core": "^4.0.2",
     "cypress": "^5.2.0",
     "cypress-axe": "^0.8.1",
-    "gatsby-cypress": "^0.4.10",
+    "gatsby-cypress": "^2.21.0",
     "lerna": "^3.22.1",
     "start-server-and-test": "^1.11.4"
   },
